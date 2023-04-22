@@ -1,4 +1,4 @@
-#Waste Recycling, Composting and Rewarding System
+# Waste Recycling, Composting and Rewarding System
 
 An Efficient Automated Waste Recycling, Waste Composting and Rewarding System Powered by Hedera Crypto Payments System
 
